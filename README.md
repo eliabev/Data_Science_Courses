@@ -1,1 +1,2 @@
-# Statistical-Inference-UNIVESP
+# UNIVESP
+## Data Science Classes

@@ -1,0 +1,321 @@
+const newOrder = {
+    "hasAlcoholic": true,
+    "items": [
+        {
+            "category": "Refrigerantes",
+            "submenu": "PET 500 e 600ml",
+            "description": "Coca-Cola 600ml \n (CX/15)",
+            "sku": "000000000000000035",
+            "price": "69.75",
+            "alcoholic": false,
+            "remove": false,
+            "glassBottles": null,
+            "brand": "COCA-COLA",
+            "isPromotionType": false,
+            "size": "PET 500 e 600ml",
+            "pricePromotions": [],
+            "combo": 0,
+            "familyId": 0,
+            "includeOnWhatsapp": true,
+            "includeOnAlternativeOrderFlow": true,
+            "quantity": 0
+        },
+        {
+            "category": "Refrigerantes",
+            "submenu": "Latas 310ml",
+            "description": "Coca-Cola 310ml \n (CX/15)",
+            "sku": "000000000000000106",
+            "price": "35.25",
+            "alcoholic": false,
+            "remove": false,
+            "glassBottles": null,
+            "brand": "COCA-COLA",
+            "isPromotionType": false,
+            "size": "Latas 310ml",
+            "pricePromotions": [],
+            "combo": 0,
+            "familyId": 0,
+            "includeOnWhatsapp": true,
+            "includeOnAlternativeOrderFlow": true,
+            "quantity": 0
+        },
+        {
+            "category": "Refrigerantes",
+            "submenu": "PET 1L e 1,5L",
+            "description": "Fanta Laranja 1,51L \n (CX/12)",
+            "sku": "000000000000000293",
+            "price": "59.85",
+            "alcoholic": false,
+            "remove": false,
+            "glassBottles": null,
+            "brand": "FANTA",
+            "isPromotionType": false,
+            "size": "PET 1L e 1,5L",
+            "pricePromotions": [],
+            "combo": 0,
+            "familyId": 0,
+            "includeOnWhatsapp": true,
+            "includeOnAlternativeOrderFlow": true,
+            "quantity": 0
+        },
+        {
+            "category": "Refrigerantes",
+            "submenu": "Latas 310ml",
+            "description": "Fanta Laranja Sem Açúcar 310ml \n (CX/6)",
+            "sku": "000000000000000297",
+            "price": "13.38",
+            "alcoholic": false,
+            "remove": false,
+            "glassBottles": null,
+            "brand": "FANTA",
+            "isPromotionType": false,
+            "size": "Latas 310ml",
+            "pricePromotions": [],
+            "combo": 0,
+            "familyId": 0,
+            "includeOnWhatsapp": true,
+            "includeOnAlternativeOrderFlow": true,
+            "quantity": 0
+        },
+        {
+            "category": "Água Crystal",
+            "submenu": "PET 1,5L",
+            "description": "Crystal com gás 1.5L \n (CX/6)",
+            "sku": "000000000000001686",
+            "price": "17.34",
+            "alcoholic": false,
+            "remove": false,
+            "glassBottles": null,
+            "brand": "CRYSTAL",
+            "isPromotionType": false,
+            "size": "PET 1,5L",
+            "pricePromotions": [],
+            "combo": 0,
+            "familyId": 0,
+            "includeOnWhatsapp": true,
+            "includeOnAlternativeOrderFlow": true,
+            "quantity": 0
+        },
+        {
+            "category": "Água Crystal",
+            "submenu": "PET 350ml a 591ml",
+            "description": "Crystal sem gás 500ml \n (CX/12)",
+            "sku": "000000000000001687",
+            "price": "14.28",
+            "alcoholic": false,
+            "remove": false,
+            "glassBottles": null,
+            "brand": "CRYSTAL",
+            "isPromotionType": false,
+            "size": "PET 350ml a 591ml",
+            "pricePromotions": [],
+            "combo": 0,
+            "familyId": 0,
+            "includeOnWhatsapp": true,
+            "includeOnAlternativeOrderFlow": true,
+            "quantity": 0
+        },
+        {
+            "category": "Água Crystal",
+            "submenu": "PET 1,5L",
+            "description": "Crystal sem gás 1.5L \n (CX/6)",
+            "sku": "000000000000001689",
+            "price": "13.74",
+            "alcoholic": false,
+            "remove": false,
+            "glassBottles": null,
+            "brand": "CRYSTAL",
+            "isPromotionType": false,
+            "size": "PET 1,5L",
+            "pricePromotions": [],
+            "combo": 0,
+            "familyId": 0,
+            "includeOnWhatsapp": true,
+            "includeOnAlternativeOrderFlow": true,
+            "quantity": 0
+        },
+        {
+            "category": "Refrigerantes",
+            "submenu": "Latas 310ml",
+            "description": "Coca-Cola Sem Açúcar 310ml \n (CX/12)",
+            "sku": "000000000000001715",
+            "price": "28.20",
+            "alcoholic": false,
+            "remove": false,
+            "glassBottles": null,
+            "brand": "COCA-COLA SEM ACUCAR",
+            "isPromotionType": false,
+            "size": "Latas 310ml",
+            "pricePromotions": [],
+            "combo": 0,
+            "familyId": 0,
+            "includeOnWhatsapp": true,
+            "includeOnAlternativeOrderFlow": true,
+            "quantity": 0
+        },
+        {
+            "category": "Refrigerantes",
+            "submenu": "PET 500 e 600ml",
+            "description": "Coca-Cola Sem Açúcar 600ml \n (CX/12)",
+            "sku": "000000000000001769",
+            "price": "55.80",
+            "alcoholic": false,
+            "remove": false,
+            "glassBottles": null,
+            "brand": "COCA-COLA SEM ACUCAR",
+            "isPromotionType": false,
+            "size": "PET 500 e 600ml",
+            "pricePromotions": [],
+            "combo": 0,
+            "familyId": 0,
+            "includeOnWhatsapp": true,
+            "includeOnAlternativeOrderFlow": true,
+            "quantity": 0
+        },
+        {
+            "category": "Cervejas",
+            "submenu": "Garrafas 600ml",
+            "description": "Heineken Descartável 600ml \n (CX/12)",
+            "sku": "000000000000002300",
+            "price": "117.72",
+            "alcoholic": true,
+            "remove": false,
+            "glassBottles": null,
+            "brand": "HEINEKEN",
+            "isPromotionType": false,
+            "size": "Garrafas 600ml",
+            "pricePromotions": [],
+            "combo": 0,
+            "familyId": 0,
+            "includeOnWhatsapp": false,
+            "includeOnAlternativeOrderFlow": true,
+            "quantity": 0
+        },
+        {
+            "category": "Cervejas",
+            "submenu": "Latas 350ml",
+            "description": "Heineken Lata 350ml \n (CX/12)",
+            "sku": "000000000000002342",
+            "price": "52.08",
+            "alcoholic": true,
+            "quantityLimit": 4,
+            "remove": false,
+            "glassBottles": null,
+            "brand": "HEINEKEN",
+            "isPromotionType": false,
+            "size": "Latas 350ml",
+            "pricePromotions": [],
+            "combo": 0,
+            "familyId": 0,
+            "includeOnWhatsapp": false,
+            "includeOnAlternativeOrderFlow": true,
+            "quantity": 0
+        },
+        {
+            "category": "Cervejas",
+            "submenu": "Latas 350ml",
+            "description": "Amstel Lata 350ml \n (CX/12)",
+            "sku": "000000000000002344",
+            "price": "35.16",
+            "alcoholic": true,
+            "quantityLimit": 4,
+            "remove": false,
+            "glassBottles": null,
+            "brand": "AMSTEL",
+            "isPromotionType": false,
+            "size": "Latas 350ml",
+            "pricePromotions": [],
+            "combo": 0,
+            "familyId": 0,
+            "includeOnWhatsapp": false,
+            "includeOnAlternativeOrderFlow": true,
+            "quantity": 0
+        },
+        {
+            "category": "Cervejas",
+            "submenu": "Garrafas 330ml",
+            "description": "Heineken LongNeck 330ml \n (CX/6)",
+            "sku": "000000000000002377",
+            "price": "32.46",
+            "alcoholic": true,
+            "quantityLimit": 8,
+            "remove": false,
+            "glassBottles": null,
+            "brand": "HEINEKEN",
+            "isPromotionType": true,
+            "size": "Garrafas 330ml",
+            "pricePromotions": [],
+            "combo": 0,
+            "familyId": 0,
+            "includeOnWhatsapp": false,
+            "includeOnAlternativeOrderFlow": true,
+            "quantity": 0
+        },
+        {
+            "category": "Cervejas",
+            "submenu": "Garrafas 600ml",
+            "description": "Baden Baden Ipa Descartável 600ml \n (CX/12)",
+            "sku": "000000000000002735",
+            "price": "130.68",
+            "alcoholic": true,
+            "remove": false,
+            "glassBottles": null,
+            "brand": "BADEN-BADEN",
+            "isPromotionType": false,
+            "size": "Garrafas 600ml",
+            "pricePromotions": [],
+            "combo": 0,
+            "familyId": 0,
+            "includeOnWhatsapp": false,
+            "includeOnAlternativeOrderFlow": true,
+            "quantity": 0
+        },
+        {
+            "category": "Verde Campo",
+            "submenu": "Caixa 250ml",
+            "description": "Shake Whey Chocolate 14G 250ml \n (CX/12)",
+            "sku": "000000000000004664",
+            "price": "65.25",
+            "alcoholic": false,
+            "remove": false,
+            "glassBottles": null,
+            "brand": "NATURAL WHEY",
+            "isPromotionType": false,
+            "size": "Caixa 250ml",
+            "pricePromotions": [],
+            "combo": 0,
+            "familyId": 0,
+            "includeOnWhatsapp": true,
+            "includeOnAlternativeOrderFlow": true,
+            "quantity": 0
+        }
+    ]
+}
+const listOfPrefixes = newOrder.items.map((orderItem, i) => {
+    return `*[${i + 1}]* `;
+})
+
+function formatQuantity(item) {
+    let formattedQuantity = "";
+        if (item.quantity < 10) {
+            formattedQuantity += "0";
+        }
+        formattedQuantity +=
+            item.quantity + (item.quantity > 1 ? " caixas " : " caixa ") + "de";
+    return formattedQuantity;
+}
+
+const listOfQuantities = newOrder.items.map((orderItem, i) => {
+    if (!orderItem.quantity) orderItem.quantity = 1;
+    return formatQuantity(orderItem)
+});
+console.log(newOrder.items.length)
+
+newOrder.items = newOrder.items.map((orderItem) => {
+    if (!orderItem.quantity) orderItem.quantity = 1
+    return orderItem;
+})
+
+console.log(newOrder.items.length)
+
+// console.log(listOfPrefixes, listOfQuantities)

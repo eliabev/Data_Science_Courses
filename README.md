@@ -1,3 +1,3 @@
 # Data Science
 
-## Univesp && Alura
+## Univesp, Alura, Udemy, etc.
